@@ -10,7 +10,6 @@ Vivian Sy Ting Wu
 </br>
 
 ## Grades
-
 <table>
   <tr>
     <th><strong>SUBJECT</strong></th>
