@@ -1,0 +1,15 @@
+
+			<html>
+				<script>
+					function fDownload(){
+						document.frmDownload.submit();
+					}
+				</script>
+				<body onload="javascript: fDownload();">
+					<form name="frmDownload" target="_blank" method="get" action="/Controle404/download.php">
+						<input type="hidden" name="file" value="upload_fiap/alunos/trabalhoGraduacao/entregaAluno/9A4C8195-BDB3-44EF-9057-A3603DAE8B27.rar">
+						<!--<input type="hidden" name="origem" value="asp">-->
+					</form>
+				</body>
+			</html>
+		
